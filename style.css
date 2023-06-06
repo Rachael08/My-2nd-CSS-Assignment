@@ -1,0 +1,63 @@
+.head {
+    color: #fff;
+    font-size: 3.5rem;
+    line-height: 1.2;
+}
+body {
+    background-color: rgb(62, 62, 237);
+    text-align: center;
+    padding: 1px;
+    color: #fff;
+}
+#imagetag {
+    background-image: url(Images/1.jpg);
+    background-blend-mode: hard-light;
+    background-size: cover;
+    background-color: rgb(64, 64, 147);
+    padding: 15px;
+    margin: 0px;
+    }
+    .pic2 {
+        max-width: 100%;
+        display: block;
+        margin: 0 auto;
+        overflow-clip-margin: content-box;
+        overflow: clip;
+    }
+    figure {
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 40px;
+        margin-block-end: 40px;
+    }
+    .caption{
+        margin-top: 15px;
+        margin-bottom: 5px;
+        margin-right: 0px;
+        margin-left: 0px;
+        color: #fff;
+        display: block;
+        font-size: 1.4rem;
+        font-family: cursive;
+    }
+    .subhead {
+        color: #fff;
+        font-size: 20px;
+    }
+    h3 {
+        font-size: 2rem;
+    }
+   div.container {
+    text-align: center;
+   }
+   .mylist {
+    display: inline-block;
+    text-align: left;
+    max-width: 650px;
+    font-size: 1.5rem;
+   }
+   .comment {
+    font-size: 1.3rem;
+    font-style: italic;
+   }
