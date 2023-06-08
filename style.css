@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
 .head {
     color: #fff;
     font-size: 3.5rem;
@@ -39,7 +45,7 @@ body {
         color: #fff;
         display: block;
         font-size: 1.4rem;
-        font-family: cursive;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
     .subhead {
         color: #fff;
@@ -61,3 +67,4 @@ body {
     font-size: 1.3rem;
     font-style: italic;
    }
+   
